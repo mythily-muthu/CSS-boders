@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(188, 195, 202);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.header_container {
+  color: rgb(156, 28, 92);
+  width: 100%;
+  border-style: double;
+  display: flex;
+  justify-content: center;
+  height: 9vh;
+  border-color: brown;
+  align-items: center;
+}
+.content_container {
+  color: blueviolet;
+  text-align: justify;
+}
+.footer_container {
+  color: brown;
+  display: flex;
+  justify-content: center;
+}
