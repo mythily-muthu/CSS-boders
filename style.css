@@ -20,7 +20,7 @@ body {
   text-align: justify;
 }
 .footer_container {
-  color: brown;
+  color: rgb(122, 35, 35);
   display: flex;
   justify-content: center;
 }
